@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+.imclass {
+    background-color: rgb(255, 177, 177);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.imclass.difitem {
+    font-size: 24px;
+}
+
+#imidone {
+    color:rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#imidtwo {
+    background-color:rgb(155, 255, 155);
+    font-size: 24px;
+    font-weight: bold;
+}
